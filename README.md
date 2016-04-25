@@ -1,2 +1,2 @@
 # hello-world
-for teaching purposes
+the other version
